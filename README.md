@@ -1,4 +1,4 @@
-# TechTalk
+# Tech Talk
 
 Slide decks from Ivan Paulovich's Tech Talks
 
@@ -9,5 +9,6 @@ Slide decks from Ivan Paulovich's Tech Talks
 | <a href="https://github.com/ivanpaulovich/TechTalks/raw/master/Ivan-Paulovich-Clean-Architecture-Essentials/Ivan-Paulovich-Clean-Architecture-Essentials-SSC.pdf"><img src="https://github.com/ivanpaulovich/TechTalks/raw/master/Ivan-Paulovich-Clean-Architecture-Essentials/Ivan-Paulovich-Clean-Architecture-Essentials-RC2.001.jpeg" width=320 /></a>             | [Clean Architecture Essentials](https://github.com/ivanpaulovich/TechTalks/raw/master/Ivan-Paulovich-Clean-Architecture-Essentials/Ivan-Paulovich-Clean-Architecture-Essentials-SSC.pdf)       |
 | <a href="https://github.com/ivanpaulovich/TechTalks/raw/master/Building%20Rich%20Domain%20Models%20with%20DDD%20and%20TDD%20-%20Ivan%20Paulovich/Building%20Rich%20Domain%20Models%20with%20DDD%20and%20TDD%20-%20Ivan%20Paulovich.pdf"><img src="https://github.com/ivanpaulovich/TechTalks/raw/master/Building Rich Domain Models with DDD and TDD - Ivan Paulovich/Building Rich Domain Models with DDD and TDD - Ivan Paulovich.001.jpeg" width=320 /></a>             | [Building Rich Domain Models with DDD and TDD](https://github.com/ivanpaulovich/TechTalks/raw/master/Building%20Rich%20Domain%20Models%20with%20DDD%20and%20TDD%20-%20Ivan%20Paulovich/Building%20Rich%20Domain%20Models%20with%20DDD%20and%20TDD%20-%20Ivan%20Paulovich.pdf)       |
 
+> If you are a event organizer, meetup or is a streamer and would like me to join you. I would be happy to talk about Clean Architecture, TDD, .NET and create original content to share with your audience.
 
-https://github.com/ivanpaulovich/TechTalks/raw/master/Ivan-Paulovich-Clean-Architecture-Essentials/Ivan-Paulovich-Clean-Architecture-Essentials-SSC.pdf
+You can reach me at ivan@paulovich.net and we will arrange it on the date and time that work for us.
