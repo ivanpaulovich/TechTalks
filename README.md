@@ -1,6 +1,6 @@
 # Ivan Paulovich's Tech Talks
 
-High resolution PDFs from my past talks so you can learn from my journey into Clean Architecture.
+Download the following high resolution PDFs from my past talks to easy your learning into Clean Architecture.
 
 | Talk            | Download                                                           |
 |----------------------|-----------------------------------------------------------------------|
