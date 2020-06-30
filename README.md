@@ -1,6 +1,6 @@
-# Tech Talk
+# Ivan Paulovich's Tech Talks
 
-Slide decks from Ivan Paulovich's Tech Talks
+Download the following high-resolution slides from my past talks to easy your learning into Clean Architecture.
 
 | Talk            | Download                                                           |
 |----------------------|-----------------------------------------------------------------------|
