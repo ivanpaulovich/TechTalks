@@ -1,6 +1,6 @@
 # Ivan Paulovich's Tech Talks
 
-Download the following high-resolution slides from my past talks to easy your learning into Clean Architecture.
+Download the following high-resolution slides from my past talks to easy your learning into Clean Architecture. For recent talk please head to my https://speakerdeck.com/ivanpaulovich profile.
 
 | Talk            | Download                                                           |
 |----------------------|-----------------------------------------------------------------------|
